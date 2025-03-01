@@ -1,0 +1,21 @@
+{
+	"name": "flyer unit",
+	"description": "A unit which flyes way faster",
+	"health": 300,
+	"flying": true,
+	"TargetAir": true,
+	"speed": 3.9,
+	"range": 160,
+	"weapons": [
+	{
+		"name": "unit's-weapon",
+		"reload": 10,
+		"recoil": 15,
+		"bullet": {
+			"damage": 40,
+			"speed": 2.3,
+			"type": "BasicBulletType"
+		}
+	}
+	]
+}
