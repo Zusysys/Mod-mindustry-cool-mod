@@ -1,0 +1,28 @@
+{
+	"name": "Fast Turret",
+	"description": "It's a Faster Turret",
+	"health": 600,
+	"size": 3,
+	"rotateSpeed": 6.0,
+	"type": "itemTurret",
+	"range": 200,
+	"ammoTypes": {
+		"copper": {
+			"damage": 20,
+			"speed": 30.9,
+			"inaccuracy": 20
+			"type": "BasicBulletType"
+		}
+	},
+	"requirements": [
+	{"item": "copper", "amount": 12},
+	{"item": "stone", "amount": 8}
+	],
+	"research": {
+		"parent": "duo",
+		"requirements": [
+		{"item": "copper", "amount": 20}
+		{"item": "stone", "amount": 18}
+		]
+	}
+}

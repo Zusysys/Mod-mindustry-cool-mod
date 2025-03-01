@@ -1,0 +1,27 @@
+{
+	"name": "Slow Turret",
+	"description": "It's a Slower Turret But Stronger",
+	"health": 800,
+	"size": 3,
+	"rotateSpeed": 4.0,
+	"type": "itemTurret",
+	"range": 500,
+	"ammoTypes": {
+		"copper": {
+			"damage": 100,
+			"speed": 2.0,
+			"type": "BasicBulletType"
+		}
+	},
+	"requirements": [
+	{"item": "copper", "amount": 24},
+	{"item": "stone", "amount": 10}
+	],
+	"research": {
+		"parent": "duo",
+		"requirements": [
+		{"item": "copper", "amount": 40}
+		{"item": "stone", "amount": 20}
+		]
+	}
+}
