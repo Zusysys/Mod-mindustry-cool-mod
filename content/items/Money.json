@@ -1,0 +1,7 @@
+{
+   "type": "resource",
+   "name": "Money",
+   "description": "Money!",
+   "cost": 1.0,
+   "color": "#16d113"
+}

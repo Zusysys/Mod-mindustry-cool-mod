@@ -1,0 +1,8 @@
+{
+   "type": "resource",
+   "name": "stone",
+   "description": "This is just a stone Really",
+   "cost": 1.0,
+   "hardness": 1,
+   "color": "#b3b3b3"
+}
