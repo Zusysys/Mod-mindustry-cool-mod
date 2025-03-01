@@ -5,7 +5,7 @@
 	"size": 3,
 	"rotateSpeed": 4.0,
 	"type": "itemTurret",
-	"range": 500,
+	"range": 100,
 	"ammoTypes": {
 		"copper": {
 			"damage": 100,
