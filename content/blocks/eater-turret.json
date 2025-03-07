@@ -1,10 +1,10 @@
 {
-	"name": "Fast Turret",
-	"description": "It's a Faster Turret",
+	"name": "Eater Turret",
+	"description": "It's a Eater Turret",
 	"health": 600,
 	"size": 3,
 	"rotateSpeed": 6.0,
-	"type": "itemTurret",
+	"type": "Turret",
 	"range": 30,
 	"ammoTypes": {
 		"copper": {
