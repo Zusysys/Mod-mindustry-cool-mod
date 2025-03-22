@@ -4,7 +4,7 @@
 	"health": 200,
 	"size": 2,
 	"type": "genericCrafter",
-	"outpitItem": {"item": "money", "amount": 1},
+	"outpitItem": {"item": "Money", "amount": 1},
 	"hasPower": true,
 	"hasItem": true,
     "consumes": {
